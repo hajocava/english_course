@@ -1,5 +1,11 @@
 ### Clothes and accesories vocabulary
 
+* **I wear** a shirt and pants. | Yo llevo una camisa y pantalones.
+* **I wore** a shirt and pants. | Yo llevé una camisa y pantalones.
+* **I am / was wearing** a shirt and pants. | Yo estoy / estaba llevando una camisa y pantalones.
+* **I will wear** a shirt and pants. | Yo llevaré una camisa y pantalones.
+* **I have worn** a shirt and pants. | Yo he llevado una camisa y pantalones.
+
 | Spanish            | English            | Pronunciation                |
 |--------------------|--------------------|------------------------------|
 | Abrigo             | Coat               | "kout"                       |
@@ -12,7 +18,7 @@
 | Blusa              | Blouse             | "blous"                      |
 | Bragas             | Panties            | "pantis"                     |
 | Bufanda            | Scarf              | "skarf"                      |
-| Bracalete          | Bracelit           | "Braslet"                    |
+| Bracalete|pulsera  | Bracelit           | "Braslet"                    |
 | Calcetines         | Socks              | "soks"                       |
 | Calzones           | Underpants         | "onder pants"                |
 | Camisa             | Shirt              | "shurt"                      |
@@ -47,7 +53,7 @@
 | Sudadera           | Hoddie             | "Judi"                       |
 | Suéter             | Sweater            | "suéter" (similar in Spanish)|
 | Sujetador/Brasier  | Bra                | "bra" (similar in Spanish)   |
-| Tacones            | High heels         | "Ji jils"                       |
+| Tacones            | High heels         | "Ji jils"                    |
 | Tanga              | Thong              | "tong"                       |
 | Tirantes           | Suspenders         | "suspenders"                 |
 | Traje              | Suit               | "sut"                        |
@@ -57,3 +63,9 @@
 | Zapatos            | Shoes              | "shuz"                       |
 | Zapatos de tacón   | High heels         | "jai jils"                   |
 | Zapatillas         | Sneakers           | "snikers"                    |
+
+### Examples
+
+I'm wearing a gray shorts
+I'm wearing some comfortable sandals
+I'm wearing a black bracelit
