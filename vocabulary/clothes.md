@@ -1,46 +1,59 @@
-### Clothes Vocabulary
+### Clothes and accesories vocabulary
 
 | Spanish            | English            | Pronunciation                |
 |--------------------|--------------------|------------------------------|
-| Abrigo             | Coat               | "kot"                        |
+| Abrigo             | Coat               | "kout"                       |
 | Albornoz           | Bathrobe           | "bathrob"                    |
-| Bañador            | Swimsuit           | "swim-sut"                   |
+| Aretes             | Earrings           | "irings"                     |
 | Bolsa              | Bag                | "bag"                        |
 | Boina              | Beret              | "beray"                      |
 | Botas              | Boots              | "buts"                       |
+| Bolso              | Purse              | "porse"                      |
+| Blusa              | Blouse             | "blous"                      |
 | Bragas             | Panties            | "pantis"                     |
 | Bufanda            | Scarf              | "skarf"                      |
+| Bracalete          | Bracelit           | "Braslet"                    |
 | Calcetines         | Socks              | "soks"                       |
+| Calzones           | Underpants         | "onder pants"                |
 | Camisa             | Shirt              | "shurt"                      |
-| Camiseta           | T-shirt            | "ti-shurt"                   |
+| Camiseta/Playera   | T-shirt            | "ti-shurt"                   |
 | Chaleco            | Vest               | "vest"                       |
 | Chaqueta           | Jacket             | "yáket"                      |
 | Cinturón           | Belt               | "belt"                       |
 | Corbata            | Tie                | "tai"                        |
+| Collar             | Necklace           | "necles"                     |
 | Falda              | Skirt              | "skurt"                      |
-| Gafas              | Glasses            | "glasiz"                     |
+| Gafas/lentes       | Glasses            | "glasiz"                     |
 | Gorra              | Cap                | "kap"                        |
 | Gorro              | Beanie             | "bíni"                       |
 | Guantes            | Gloves             | "glovz"                      |
+| Hilo dental        | G-string           | "gistring"                   |
 | Impermeable        | Raincoat           | "reinkot"                    |
-| Jeans              | Jeans              | "jins"                       |
-| Leggings           | Leggings           | "legins"                     |
-| Medias             | Tights             | "taits"                      |
-| Pajarita           | Bowtie             | "boutai"                     |
+| Jeans (Mezclilla)  | Jeans              | "jins"                       |
+| Leggings/Mayon     | Leggings           | "legins"                     |
+| Medias             | Stalkings          | "stalkings"                  |
+| Moño               | Bow tie            | "bou tai"                    |
+| Overol             | Overalls           | "overolls"                   |
 | Pantalones         | Pants              | "pants"                      |
 | Pantalones cortos  | Shorts             | "shorts"                     |
 | Pantuflas          | Slippers           | "slipers"                    |
 | Paraguas           | Umbrella           | "ambrella"                   |
+| Perforación        | Piercing           | "Percing"                    |
 | Pijama             | Pajamas            | "pajámas"                    |
 | Reloj              | Watch              | "woch"                       |
-| Ropa interior      | Underwear          | "ánderwear"                  |
+| Ropa interior      | Underwear          | "onderwear"                  |
 | Sandalias          | Sandals            | "sandals"                    |
 | Sombrero           | Hat                | "jat"                        |
+| Sudadera           | Hoddie             | "Judi"                       |
 | Suéter             | Sweater            | "suéter" (similar in Spanish)|
-| Sujetador          | Bra                | "bra" (similar in Spanish)   |
+| Sujetador/Brasier  | Bra                | "bra" (similar in Spanish)   |
+| Tacones            | High heels         | "Ji jils"                       |
+| Tanga              | Thong              | "tong"                       |
 | Tirantes           | Suspenders         | "suspenders"                 |
 | Traje              | Suit               | "sut"                        |
+| Traje de baño      | Swim suit          | "swim sut"                   |
 | Vestido            | Dress              | "dres"                       |
+| Billetera          | Wallet             | "Wualet                      |
 | Zapatos            | Shoes              | "shuz"                       |
 | Zapatos de tacón   | High heels         | "jai jils"                   |
 | Zapatillas         | Sneakers           | "snikers"                    |
