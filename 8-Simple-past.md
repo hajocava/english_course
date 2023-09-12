@@ -52,3 +52,29 @@ Cuando se responde a preguntas en pasado simple, se puede usar la estructura cor
 
 Ejemplo:
 - Did you study? Yes, I did. / No, I didn't.
+
+### Question Words (Palabras Interrogativas)
+
+Las palabras interrogativas son esenciales para hacer preguntas en inglés. Estas palabras nos ayudan a obtener información específica y no simplemente una respuesta afirmativa o negativa.
+
+| English      | Español    |
+|--------------|------------|
+| What         | ¿Qué?      |
+| When         | ¿Cuándo?   |
+| Where        | ¿Dónde?    |
+| Why          | ¿Por qué?  |
+| Who          | ¿Quién?    |
+| How          | ¿Cómo?     |
+| Which        | ¿Cuál?     |
+| How much     | ¿Cuánto?   |
+| How many     | ¿Cuántos?  |
+
+**Diferencia entre "How much" y "How many":**
+
+- **How much**: Se utiliza principalmente para preguntar sobre cantidades no contables o cuando no se puede contar fácilmente algo en unidades individuales. Por ejemplo, agua, arena, amor, etc.
+  - Ejemplo: How much water do you drink every day?
+  
+- **How many**: Se utiliza para preguntar sobre cantidades contables, es decir, cosas que puedes contar en unidades individuales como libros, manzanas, coches, etc.
+  - Ejemplo: How many books do you have?
+
+De esta manera, elegir entre "how much" y "how many" dependerá del tipo de sustantivo con el que estemos trabajando y si es contable o no.
