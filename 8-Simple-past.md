@@ -78,3 +78,70 @@ Las palabras interrogativas son esenciales para hacer preguntas en inglés. Esta
   - Ejemplo: How many books do you have?
 
 De esta manera, elegir entre "how much" y "how many" dependerá del tipo de sustantivo con el que estemos trabajando y si es contable o no.
+
+### Exercises
+
+When did he read the book? He read the book yesterday.
+Where did you swim? I swam at the beach.
+Who did you speak to? I spoke to my teacher.
+What did we eat? We ate hamburgers.
+What did they have? They had a class.
+How much they travel? They traveled to London.
+What did you do? I did my homework.
+
+### Translate to English
+
+1. Ella vio a su novio con otra.
+She saw her boyfriend with another girl.
+
+2. El investigo el tema.
+He investigated the topic.
+
+3. Nosotros no tomamos la clase.
+We didn't take the class.
+
+4. No volo muy alto.
+It didn't fly very high.
+
+5. ¿Caminaste mucho?
+Did you walk a lot?
+
+6. ¿Escribieron las notas?
+Did they write the notes?
+
+7. ¿Cuantos compraste?
+How many did you buy?
+
+8. ¿Porque lloro?
+Why did it cry?
+
+9. ¿Cuanto vendieron?
+How much did they sell?
+
+10. ¿Donde estudio ingles?
+Where did he study English?
+
+### Pronunciation of ED
+
+El sufijo "ED" en inglés puede ser pronunciado de tres maneras diferentes: /id/, /t/ y /d/. La pronunciación depende del sonido final del verbo base. Aquí hay una tabla con ejemplos para ayudarte a entender y practicar la correcta pronunciación de "ED".
+
+| /id/        | /t/            | /d/           |
+|-------------|----------------|---------------|
+| T -> wanted | P -> helped    | L -> called   |
+| D -> needed | K -> looked    | N -> cleaned  |
+|             | S -> passed    | R -> offered  |
+|             | SH -> washed   | V -> lived    |
+|             | CH -> watched  | G -> played   |
+|             | F -> laughed   | B -> robbed   |
+|             | TH -> bathed   | M -> dreamed  |
+|             | X -> fixed     | Z -> raised   |
+|             | H -> breathed  | J -> enjoyed  |
+|             | W -> snowed    | Y -> stayed   |
+
+- **/id/**: Se utiliza después de verbos que terminan con los sonidos /t/ o /d/.
+  
+- **/t/**: Después de verbos que terminan en sonidos no sonoros, como /p/, /k/, /s/, /sh/, /ch/, /f/, /th/ (como en "bath"), /x/, /h/, y /w/.
+
+- **/d/**: Después de verbos que terminan en sonidos sonoros, excepto los sonidos /t/ y /d/. Estos incluyen /l/, /n/, /r/, /v/, /g/, /b/, /m/, /z/, /j/, y /y/.
+
+Al practicar la pronunciación, es útil prestar atención al sonido final del verbo sin "ED" y luego aplicar la regla adecuada.
