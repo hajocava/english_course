@@ -45,16 +45,16 @@ Do they read books?
 
 ### How answer
 
-| Question                        | Affirmative   | Negative          |
-|---------------------------------|---------------|-------------------|
-| Do I play basketball?           | Yes, you do.  | No, you don't.    |
-| Do you work all day?            | Yes, I do.    | No, I don't.      |
-| Does he dance salsa?            | Yes, he does. | No, he doesn't.   |
-| Does she swim in the pool?      | Yes, she does.| No, she doesn't.  |
-| Does it rain a lot?             | Yes, it does. | No, it doesn't.   |
-| Do we study English?            | Yes, we do.   | No, we don't.     |
-| Do you practice volleyball?     | Yes, we do.   | No, we don't.     |
-| Do they read books?             | Yes, they do. | No, they don't.   |
+| Question                    | Affirmative    | Negative         |
+| --------------------------- | -------------- | ---------------- |
+| Do I play basketball?       | Yes, you do.   | No, you don't.   |
+| Do they read books?         | Yes, they do.  | No, they don't.  |
+| Do we study English?        | Yes, we do.    | No, we don't.    |
+| Do you practice volleyball? | Yes, we do.    | No, we don't.    |
+| Do you work all day?        | Yes, I do.     | No, I don't.     |
+| Does he dance salsa?        | Yes, he does.  | No, he doesn't.  |
+| Does it rain a lot?         | Yes, it does.  | No, it doesn't.  |
+| Does she swim in the pool?  | Yes, she does. | No, she doesn't. |
 
 ### Third Person Singular
 
@@ -67,26 +67,26 @@ In English, when conjugating verbs in the third person singular (he, she, it), t
 
 Below is a table with examples for better understanding:
 
-| Verb (Base Form) | Third Person Singular (he, she, it) | Español          |
-|------------------|-------------------------------------|------------------|
-| drink            | drinks                              | beber            |
-| run              | runs                                | correr           |
-| watch            | watches                             | mirar/observar   |
-| cry              | cries                               | llorar           |
-| play             | plays                               | jugar/tocar      |
-| go               | goes                                | ir               |
-| wash             | washes                              | lavar            |
-| drive            | drives                              | conducir/manejar |
-| mix              | mixes                               | mezclar          |
-| teach            | teaches                             | enseñar          |
-| fly              | flies                               | volar            |
-| help             | helps                               | ayudar           |
-| like             | likes                               | gustar           |
-| carry            | carries                             | llevar/cargar    |
-| start            | starts                              | comenzar/arrancar|
-| kiss             | kisses                              | besar            |
-| tidy             | tidies                              | ordenar          |
-| enjoy            | enjoys                              | disfrutar        |
+| Verb (Base Form) | Third Person Singular (he, she, it) | Español           |
+| ---------------- | ----------------------------------- | ----------------- |
+| carry            | carries                             | llevar/cargar     |
+| cry              | cries                               | llorar            |
+| drink            | drinks                              | beber             |
+| drive            | drives                              | conducir/manejar  |
+| enjoy            | enjoys                              | disfrutar         |
+| fly              | flies                               | volar             |
+| go               | goes                                | ir                |
+| help             | helps                               | ayudar            |
+| kiss             | kisses                              | besar             |
+| like             | likes                               | gustar            |
+| mix              | mixes                               | mezclar           |
+| play             | plays                               | jugar/tocar       |
+| run              | runs                                | correr            |
+| start            | starts                              | comenzar/arrancar |
+| teach            | teaches                             | enseñar           |
+| tidy             | tidies                              | ordenar           |
+| wash             | washes                              | lavar             |
+| watch            | watches                             | mirar/observar    |
 
 By understanding and following these rules, you can accurately conjugate verbs in the third person singular.
 

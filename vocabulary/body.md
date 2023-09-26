@@ -1,60 +1,60 @@
 ### Body Vocabulary
 
-| Spanish       | English       | Pronunciation |
-|---------------|---------------|---------------|
-| Cabello       | Hair          | Heir          |
-| Cabeza        | Head          | Hed           |
-| Frente        | Forehead      | Forhed        |
-| Ojo           | Eye           | Ay            |
-| Cejas         | Eyebrows      | Aybraous      |
-| Pestañas      | Eyelash       | Aylashes      |
-| Parpado       | Eyelids       | Aylids        |
-| Nariz         | Nose          | Nous          |
-| Cachetes      | Cheeks        | Chiks         |
-| Boca          | Mouth         | Maud          |
-| Labios        | Lips          | Lips          |
-| Diente        | Tooth         | Tuth          |
-| Dientes       | Teeth         | Tith          |
-| Barbilla      | Chin          | Chin          |
-| Oreja         | Ear           | Ier           |
-| Orejas        | Ears          | Iers          |
-| Cuello        | Neck          | Neck          |
-| Hombros       | Shoulders     | Shoulders     |
-| Pecho         | Chest         | Chest         |
-| Pechos        | Breast        | Brests        |
-| Brazo         | Arm           | Arm           |
-| Brazos        | Arms          | Arms          |
-| Codo          | Elbow         | Elbou         |
-| Antebrazo     | ForeArms      | ForArms       |
-| Muñeca        | Wrist         | Wrist         |
-| Manos         | Hands         | Hands         |
-| Dedos         | Fingers       | Fingers       |
-| Uña           | Nail          | Nail          |
-| Uñas          | Nails         | Nails         |
-| Panza         | Belly         | Bely          |
-| Ombligo       | Belly botton  | Bely boren    |
-| Cintura       | Hips          | Heps          |
-| Piernas       | Legs          | Legs          |
-| Rodillas      | Knees         | Knis          |
-| Espinillas    | Shins         | Shins         |
-| Pie           | Foot          | Fut           |
-| Pies          | Feet          | Fit           |
-| Tobillo       | Ankle         | Inkol         |
-| Talon         | Heel          | Hil           |
-| Dedos del pie | Toes          | Tous          |
-| Glúteos       | Buttocks      | Batuks        |
-| Espalda       | Back          | Bak           |
-| Pene          | Penis         | Peenis        |
-| Vagina        | Vagina        | Vajayna       |
-| Barba         | Beard         | Bird          |
-| Bigote        | Moustache     | Mustash       |
-| Lunar         | Mole          | Moul          |
-| Peca          | Beauty mark   | Byooty mark   |
-| Pecas         | Freckles      | Frekls        |
-| Granos        | Pimples       | Pimpuls       |
-| Arrugas       | Wrinkles      | Rinkuls       |
-| Cicatrices    | Scars         | Skarz         |
-| Piel          | Skin          | Skin          |
+| Spanish       | English      | Pronunciation |
+| ------------- | ------------ | ------------- |
+| Antebrazo     | ForeArms     | ForArms       |
+| Arrugas       | Wrinkles     | Rinkuls       |
+| Barba         | Beard        | Bird          |
+| Barbilla      | Chin         | Chin          |
+| Bigote        | Moustache    | Mustash       |
+| Boca          | Mouth        | Maud          |
+| Brazo         | Arm          | Arm           |
+| Brazos        | Arms         | Arms          |
+| Cabello       | Hair         | Heir          |
+| Cabeza        | Head         | Hed           |
+| Cachetes      | Cheeks       | Chiks         |
+| Cejas         | Eyebrows     | Aybraous      |
+| Cicatrices    | Scars        | Skarz         |
+| Cintura       | Hips         | Heps          |
+| Codo          | Elbow        | Elbou         |
+| Cuello        | Neck         | Neck          |
+| Dedos         | Fingers      | Fingers       |
+| Dedos del pie | Toes         | Tous          |
+| Diente        | Tooth        | Tuth          |
+| Dientes       | Teeth        | Tith          |
+| Espalda       | Back         | Bak           |
+| Espinillas    | Shins        | Shins         |
+| Frente        | Forehead     | Forhed        |
+| Glúteos       | Buttocks     | Batuks        |
+| Granos        | Pimples      | Pimpuls       |
+| Hombros       | Shoulders    | Shoulders     |
+| Labios        | Lips         | Lips          |
+| Lunar         | Mole         | Moul          |
+| Manos         | Hands        | Hands         |
+| Muñeca        | Wrist        | Wrist         |
+| Nariz         | Nose         | Nous          |
+| Ojo           | Eye          | Ay            |
+| Ombligo       | Belly botton | Bely boren    |
+| Oreja         | Ear          | Ier           |
+| Orejas        | Ears         | Iers          |
+| Panza         | Belly        | Bely          |
+| Parpado       | Eyelids      | Aylids        |
+| Peca          | Beauty mark  | Byooty mark   |
+| Pecas         | Freckles     | Frekls        |
+| Pecho         | Chest        | Chest         |
+| Pechos        | Breast       | Brests        |
+| Pene          | Penis        | Peenis        |
+| Pestañas      | Eyelash      | Aylashes      |
+| Pie           | Foot         | Fut           |
+| Piel          | Skin         | Skin          |
+| Piernas       | Legs         | Legs          |
+| Pies          | Feet         | Fit           |
+| Rodillas      | Knees        | Knis          |
+| Talon         | Heel         | Hil           |
+| Tobillo       | Ankle        | Inkol         |
+| Uña           | Nail         | Nail          |
+| Uñas          | Nails        | Nails         |
+| Vagina        | Vagina       | Vajayna       |
 
 #### Exercises
 

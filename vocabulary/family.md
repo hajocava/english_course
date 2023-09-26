@@ -1,58 +1,58 @@
 ### Family Vocabulary
 
-| Español       | English          | Pronunciation        |
-|---------------|------------------|----------------------|
-| padre         | father           | fáder                |
-| madre         | mother           | móder                |
-| padres        | parents          | pérrents             |
-| hijo          | son              | son                  |
-| hija          | daughter         | dóter                |
-| hijos         | children         | chíldren             |
-| hermano       | brother          | bróder               |
-| hermana       | sister           | síster               |
-| hermanos      | siblings         | síblings             |
-| abuelo        | grandfather      | grándfader           |
-| abuela        | grandmother      | grándmóder           |
-| abuelos       | grandparents     | grándpérrents        |
-| tío           | uncle            | áncol                |
-| tía           | aunt             | ant                  |
-| tíos          | uncles           | áncols               |
-| primo         | cousin (m)       | cásin                |
-| prima         | cousin (f)       | cásin                |
-| primos        | cousins          | cásins               |
-| esposo        | husband          | jázband              |
-| esposa        | wife             | waif                 |
-| esposos       | spouses          | spáuses              |
-| nieto         | grandson         | grándson             |
-| nieta         | granddaughter    | gránddóter           |
-| nietos        | grandchildren    | grándchíldren        |
-| sobrino       | nephew           | néfiu                |
-| sobrina       | niece            | nís                  |
-| sobrinos      | nephews          | néfius               |
-| suegro        | father-in-law    | fáder-in-ló          |
-| suegra        | mother-in-law    | móder-in-ló          |
-| suegros       | parents-in-law   | pérrents-in-ló       |
-| yerno         | son-in-law       | son-in-ló            |
-| nuera         | daughter-in-law  | dóter-in-ló          |
-| cuñado        | brother-in-law   | bróder-in-ló         |
-| cuñada        | sister-in-law    | síster-in-ló         |
-| cuñados       | siblings-in-law  | síblings-in-ló       |
-| tío político  | uncle-in-law     | áncol-in-ló          |
-| tía política  | aunt-in-law      | ant-in-ló            |
-| padrastro     | stepfather       | stépfáder            |
-| madrastra     | stepmother       | stépmóder            |
-| padrastros    | step-parents     | stéppérrents         |
-| hijastro      | stepson          | stépson              |
-| hijastra      | stepdaughter     | stépdóter            |
-| hijastros     | stepchildren     | stépchíldren         |
-| hermanastro   | stepbrother      | stépbróder           |
-| hermanastra   | stepsister       | stépsíster           |
-| hermanastros  | stepsiblings     | stépsíblings         |
-| abuelastro    | step-grandfather | stépgrándfader       |
-| abuelastra    | step-grandmother | stépgrándmóder       |
-| novio         | boyfriend        | bóyfriend            |
-| novia         | girlfriend       | gérllfriend          |
-| novios        | boyfriends       | bóyfriends           |
+| Español      | English          | Pronunciation  |
+| ------------ | ---------------- | -------------- |
+| abuela       | grandmother      | grándmóder     |
+| abuelastra   | step-grandmother | stépgrándmóder |
+| abuelastro   | step-grandfather | stépgrándfader |
+| abuelo       | grandfather      | grándfader     |
+| abuelos      | grandparents     | grándpérrents  |
+| cuñada       | sister-in-law    | síster-in-ló   |
+| cuñado       | brother-in-law   | bróder-in-ló   |
+| cuñados      | siblings-in-law  | síblings-in-ló |
+| esposa       | wife             | waif           |
+| esposo       | husband          | jázband        |
+| esposos      | spouses          | spáuses        |
+| hermana      | sister           | síster         |
+| hermanastra  | stepsister       | stépsíster     |
+| hermanastro  | stepbrother      | stépbróder     |
+| hermanastros | stepsiblings     | stépsíblings   |
+| hermano      | brother          | bróder         |
+| hermanos     | siblings         | síblings       |
+| hija         | daughter         | dóter          |
+| hijastra     | stepdaughter     | stépdóter      |
+| hijastro     | stepson          | stépson        |
+| hijastros    | stepchildren     | stépchíldren   |
+| hijo         | son              | son            |
+| hijos        | children         | chíldren       |
+| madrastra    | stepmother       | stépmóder      |
+| madre        | mother           | móder          |
+| nieta        | granddaughter    | gránddóter     |
+| nieto        | grandson         | grándson       |
+| nietos       | grandchildren    | grándchíldren  |
+| novia        | girlfriend       | gérllfriend    |
+| novio        | boyfriend        | bóyfriend      |
+| novios       | boyfriends       | bóyfriends     |
+| nuera        | daughter-in-law  | dóter-in-ló    |
+| padrastro    | stepfather       | stépfáder      |
+| padrastros   | step-parents     | stéppérrents   |
+| padre        | father           | fáder          |
+| padres       | parents          | pérrents       |
+| prima        | cousin (f)       | cásin          |
+| primo        | cousin (m)       | cásin          |
+| primos       | cousins          | cásins         |
+| sobrina      | niece            | nís            |
+| sobrino      | nephew           | néfiu          |
+| sobrinos     | nephews          | néfius         |
+| suegra       | mother-in-law    | móder-in-ló    |
+| suegro       | father-in-law    | fáder-in-ló    |
+| suegros      | parents-in-law   | pérrents-in-ló |
+| tía          | aunt             | ant            |
+| tía política | aunt-in-law      | ant-in-ló      |
+| tío          | uncle            | áncol          |
+| tío político | uncle-in-law     | áncol-in-ló    |
+| tíos         | uncles           | áncols         |
+| yerno        | son-in-law       | son-in-ló      |
 
 #### Exercises
 

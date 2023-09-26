@@ -24,21 +24,21 @@
 ## Preposiciones de lugar
 
 | English     | Español               |
-|-------------|-----------------------|
-| Inside      | Dentro                |
-| Outside     | Fuera                 |
-| Between     | Entre                 |
-| Among       | Entre (varios)        |
-| Under       | Debajo                |
-| Over        | Encima (sin contacto) |
-| On          | Encima (con contacto) |
-| Next to     | Junto a               |
-| Behind      | Detrás                |
-| In front of | En frente de          |
+| ----------- | --------------------- |
 | Along       | A lo largo de         |
+| Among       | Entre (varios)        |
+| Behind      | Detrás                |
+| Between     | Entre                 |
 | By          | Por, al lado de       |
-| Near        | Cerca                 |
 | Far         | Lejos                 |
+| In front of | En frente de          |
+| Inside      | Dentro                |
+| Near        | Cerca                 |
+| Next to     | Junto a               |
+| On          | Encima (con contacto) |
+| Outside     | Fuera                 |
+| Over        | Encima (sin contacto) |
+| Under       | Debajo                |
 
 ## Preguntas
 

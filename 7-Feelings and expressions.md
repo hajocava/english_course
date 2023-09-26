@@ -32,95 +32,95 @@ A pesar de estas diferencias, en muchas situaciones ambas preguntas pueden usars
 ## Adjetivos para Expresar Sentimientos
 
 ### Positivos
-| Inglés       | Español           |
-|--------------|-------------------|
-| Happy        | Feliz             |
-| Fine         | Bien              |
-| Good         | Bueno             |
-| Great        | Genial            |
-| Awesome      | Impresionante     |
-| Fantastic    | Fantástico        |
-| Incredible   | Increíble         |
-| Alright      | Está bien         |
+| Inglés     | Español       |
+| ---------- | ------------- |
+| Alright    | Está bien     |
+| Awesome    | Impresionante |
+| Fantastic  | Fantástico    |
+| Fine       | Bien          |
+| Good       | Bueno         |
+| Great      | Genial        |
+| Happy      | Feliz         |
+| Incredible | Increíble     |
 
 ### Negativos
-| Inglés       | Español           |
-|--------------|-------------------|
-| Sad          | Triste            |
-| Tired        | Cansado           |
-| Depressed    | Deprimido         |
-| Blue         | Melancólico       |
-| Down         | Desanimado        |
+| Inglés    | Español     |
+| --------- | ----------- |
+| Blue      | Melancólico |
+| Depressed | Deprimido   |
+| Down      | Desanimado  |
+| Sad       | Triste      |
+| Tired     | Cansado     |
 
 ### Enfado
-| Inglés       | Español           |
-|--------------|-------------------|
-| Angry        | Enfadado          |
-| Mad          | Loco / Furioso    |
-| Furious      | Furioso           |
-| Upset        | Molesto           |
-| Pissed off   | Encabronado       |
+| Inglés     | Español        |
+| ---------- | -------------- |
+| Angry      | Enfadado       |
+| Furious    | Furioso        |
+| Mad        | Loco / Furioso |
+| Pissed off | Encabronado    |
+| Upset      | Molesto        |
 
 ### Sensaciones Físicas
-| Inglés       | Español              |
-|--------------|----------------------|
-| Hungry       | Hambriento           |
-| Thirsty      | Sediento             |
-| Starving     | Muriéndose de hambre |
-| Full         | Lleno                |
-| Craving      | Antojo               |
+| Inglés   | Español              |
+| -------- | -------------------- |
+| Craving  | Antojo               |
+| Full     | Lleno                |
+| Hungry   | Hambriento           |
+| Starving | Muriéndose de hambre |
+| Thirsty  | Sediento             |
 
 ### Estados de Cansancio
-| Inglés      | Español        |
-|-------------|----------------|
-| Sleepy      | Con sueño      |
-| Fatigued    | Fatigado       |
-| Beat        | Aporreado      |
-| Tired       | Cansado        |
-| Exhausted   | Exhausto       |
-| Worn out    | Agotado        |
+| Inglés    | Español   |
+| --------- | --------- |
+| Beat      | Aporreado |
+| Exhausted | Exhausto  |
+| Fatigued  | Fatigado  |
+| Sleepy    | Con sueño |
+| Tired     | Cansado   |
+| Worn out  | Agotado   |
 
 ### Estados salud negativos
-| Inglés      | Español         |
-|-------------|-----------------|
-| Sick        | Enfermo         |
-| Bad         | Mal             |
-| Awful       | Horrible        |
-| Terrible    | Terrible        |
-| Like shit   | Como mierda     |
+| Inglés    | Español     |
+| --------- | ----------- |
+| Awful     | Horrible    |
+| Bad       | Mal         |
+| Like shit | Como mierda |
+| Sick      | Enfermo     |
+| Terrible  | Terrible    |
 
 ### Otros sentimientos
-| Inglés         | Español         |
-|----------------|-----------------|
-| Disgusted      | Disgustado      |
-| Stressed out   | Estresado       |
-| Anxious        | Ansioso         |
-| Worried        | Preocupado      |
-| Excited        | Emocionado      |
-| Lucky          | Afortunado      |
-| In love        | Enamorado       |
-| Burned out     | Quemado (en el contexto de estar extremadamente agotado, especialmente en el trabajo) |
-| Proud          | Orgulloso       |
-| Curious        | Curioso                |
-| Indifferent    | Indiferente            |
-| Jealous        | Celoso                 |
-| Grateful       | Agradecido             |
-| Overwhelmed    | Abrumado               |
-| Relieved       | Aliviado               |
-| Confident      | Confiado               |
-| Hopeful        | Esperanzado            |
-| Lonely         | Solitario              |
-| Embarrassed    | Avergonzado            |
-| Frustrated     | Frustrado              |
-| Inspired       | Inspirado              |
-| Nostalgic      | Nostálgico             |
-| Regretful      | Arrepentido            |
-| Shocked        | Sorprendido/Impresionado |
-| Hesitant       | Hesitante              |
-| Content        | Contento/Satisfecho    |
-| Bored          | Aburrido               |
-| Eager          | Ansioso/Entusiasmado   |
-| Sympathetic    | Compasivo              |
+| Inglés       | Español                                                                               |
+| ------------ | ------------------------------------------------------------------------------------- |
+| Anxious      | Ansioso                                                                               |
+| Bored        | Aburrido                                                                              |
+| Burned out   | Quemado (en el contexto de estar extremadamente agotado, especialmente en el trabajo) |
+| Confident    | Confiado                                                                              |
+| Content      | Contento/Satisfecho                                                                   |
+| Curious      | Curioso                                                                               |
+| Disgusted    | Disgustado                                                                            |
+| Eager        | Ansioso/Entusiasmado                                                                  |
+| Embarrassed  | Avergonzado                                                                           |
+| Excited      | Emocionado                                                                            |
+| Frustrated   | Frustrado                                                                             |
+| Grateful     | Agradecido                                                                            |
+| Hesitant     | Hesitante                                                                             |
+| Hopeful      | Esperanzado                                                                           |
+| In love      | Enamorado                                                                             |
+| Indifferent  | Indiferente                                                                           |
+| Inspired     | Inspirado                                                                             |
+| Jealous      | Celoso                                                                                |
+| Lonely       | Solitario                                                                             |
+| Lucky        | Afortunado                                                                            |
+| Nostalgic    | Nostálgico                                                                            |
+| Overwhelmed  | Abrumado                                                                              |
+| Proud        | Orgulloso                                                                             |
+| Regretful    | Arrepentido                                                                           |
+| Relieved     | Aliviado                                                                              |
+| Shocked      | Sorprendido/Impresionado                                                              |
+| Stressed out | Estresado                                                                             |
+| Sympathetic  | Compasivo                                                                             |
+| Worried      | Preocupado                                                                            |
 
 ### Dolor: "Ache" vs. "Hurt"
 

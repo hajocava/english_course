@@ -10,11 +10,11 @@ Hay dos tipos de verbos en el pasado simple: regulares e irregulares.
 
 **Two types of verbs**
 
-| Regular  | Irregular        |
-|----------|------------------|
-| Worked   | Run -> Ran       |
-| Played   | Sleep -> Slept   |
-| Studied  | Go -> Went       |
+| Regular | Irregular      |
+| ------- | -------------- |
+| Played  | Sleep -> Slept |
+| Studied | Go -> Went     |
+| Worked  | Run -> Ran     |
 
 Ejemplos:
 - I went to school yesterday.
@@ -57,17 +57,17 @@ Ejemplo:
 
 Las palabras interrogativas son esenciales para hacer preguntas en inglés. Estas palabras nos ayudan a obtener información específica y no simplemente una respuesta afirmativa o negativa.
 
-| English      | Español    |
-|--------------|------------|
-| What         | ¿Qué?      |
-| When         | ¿Cuándo?   |
-| Where        | ¿Dónde?    |
-| Why          | ¿Por qué?  |
-| Who          | ¿Quién?    |
-| How          | ¿Cómo?     |
-| Which        | ¿Cuál?     |
-| How much     | ¿Cuánto?   |
-| How many     | ¿Cuántos?  |
+| English  | Español   |
+| -------- | --------- |
+| How      | ¿Cómo?    |
+| How many | ¿Cuántos? |
+| How much | ¿Cuánto?  |
+| What     | ¿Qué?     |
+| When     | ¿Cuándo?  |
+| Where    | ¿Dónde?   |
+| Which    | ¿Cuál?    |
+| Who      | ¿Quién?   |
+| Why      | ¿Por qué? |
 
 **Diferencia entre "How much" y "How many":**
 
@@ -125,18 +125,18 @@ Where did he study English?
 
 El sufijo "ED" en inglés puede ser pronunciado de tres maneras diferentes: /id/, /t/ y /d/. La pronunciación depende del sonido final del verbo base. Aquí hay una tabla con ejemplos para ayudarte a entender y practicar la correcta pronunciación de "ED".
 
-| /id/        | /t/            | /d/           |
-|-------------|----------------|---------------|
-| T -> wanted | P -> helped    | L -> called   |
-| D -> needed | K -> looked    | N -> cleaned  |
-|             | S -> passed    | R -> offered  |
-|             | SH -> washed   | V -> lived    |
-|             | CH -> watched  | G -> played   |
-|             | F -> laughed   | B -> robbed   |
-|             | TH -> bathed   | M -> dreamed  |
-|             | X -> fixed     | Z -> raised   |
-|             | H -> breathed  | J -> enjoyed  |
-|             | W -> snowed    | Y -> stayed   |
+| /id/        | /t/           | /d/          |
+| ----------- | ------------- | ------------ |
+|             | CH -> watched | G -> played  |
+|             | F -> laughed  | B -> robbed  |
+|             | H -> breathed | J -> enjoyed |
+|             | S -> passed   | R -> offered |
+|             | SH -> washed  | V -> lived   |
+|             | TH -> bathed  | M -> dreamed |
+|             | W -> snowed   | Y -> stayed  |
+|             | X -> fixed    | Z -> raised  |
+| D -> needed | K -> looked   | N -> cleaned |
+| T -> wanted | P -> helped   | L -> called  |
 
 - **/id/**: Se utiliza después de verbos que terminan con los sonidos /t/ o /d/.
   
