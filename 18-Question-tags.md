@@ -1,4 +1,4 @@
-# Question Tags
+# Question Tags (American English)
 
 ### aux + subject?
 
@@ -49,3 +49,26 @@ You aren't my enemy, **are you?**
 I am not your friend, **am I?**
 
 My friends and I don't know, **do we?**
+
+
+### Exercise
+
+My boss didn't pay us on time, **did he?**
+
+You always arrive on time, **don't you?**
+
+Carla won't come, **will she?**
+
+She talked to you yesterday, **didn't she?**
+
+You can't sleep during the day, **can you?**
+
+My cat is scratching the couch, **isn't he?**
+
+Kevin should stay here, **shouldn't he?**
+
+Your parents don't leve together, **do they?**
+
+I am your best friend, **aren't I?**
+
+The trees don't move, **do they?**
