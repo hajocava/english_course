@@ -51,3 +51,7 @@ I shouldn't smoke -> I shouldn't either. | Neither should I. | I should
 I can't drive -> I can't either. | Neither can I. | I can
 
 I couldn't help it -> I couldn't either. | Neither could I. | I could
+
+-------------------------------
+
+Do you like either pepsi or coke? -> I like pepsi. | I like coke. | I like both. | I like neither | I like either | I don't like either.
