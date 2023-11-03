@@ -134,3 +134,66 @@ Algunas características de los idiomas se derivan de tradiciones lingüísticas
 En resumen, la conjugación en tercera persona del singular en inglés es esencial para mantener la claridad y la estructura gramatical del idioma. Es una de las reglas básicas que los hablantes deben aprender y utilizar correctamente para comunicarse de manera efectiva en inglés.
 
 ------------------------------------------------------------------
+
+### Exercises
+
+1. Sofia ________ all night.
+   - [ ] a. cry
+   - [X] b. cries
+   - [ ] c. crys
+
+2. Mice ________ eat fish
+   - [ ] a. not
+   - [x] b. don't
+   - [ ] c. doesn't
+
+3. Does she play soccer?
+   - [ ] a. Yes, she is
+   - [ ] b. Yes, she do
+   - [x] c. Yes, she does
+
+4. Men ________ better than women.
+   - [ ] a. cooks
+   - [x] b. cook
+   - [ ] c. doesn't cook
+
+5. Children ________ a lot of candy.
+   - [x] a. eat
+   - [ ] b. eats
+   - [ ] c. eating
+
+6. Do you study here?
+   - [ ] a. No, I am not
+   - [ ] b. No, I can't
+   - [x] c. No, I don't
+
+7. She ________ her homework.
+   - [ ] a. do
+   - [ ] b. dos
+   - [x] c. does
+
+8. Where ________ Henry live?
+   - [ ] a. is
+   - [ ] b. do
+   - [x] c. does
+
+9. I ________ know her.
+   - [ ] a. no
+   - [x] b. don't
+   - [ ] c. doesn't
+
+10. He doesn't ________ beer.
+   - [ ] a. drinks
+   - [x] b. drink
+   - [ ] c. drank
+
+11. They don't ________ basket.
+   - [x] a. play
+   - [ ] b. plays
+   - [ ] c. plaies
+
+12. The dog ________ his food funny.
+   - [ ] a. chew
+   - [ ] b. chewes
+   - [x] c. chews
+
