@@ -68,3 +68,38 @@ There are some stores among the street
 Is there a good restaurant near your house?
 Are there any landmarks or attractions in your neighborhood?
 Are there any events happening in your ?
+
+Hay una tienda cerca de mi casa.
+There is a store near my house.
+
+No puede haber nadie aqui.
+There can't be anyone here.
+
+## Past
+
+There was / There were
+
+Había mucha gente en el banco
+There were a lot of people in the bank
+
+## Past participle
+
+Han habido varios heridos en el accidente
+There have been several injured in the accident
+
+## Future
+
+Habra una fiesta en mi pueblo
+There will be a party in my town.
+
+Va haber un evento en mi trabajo.
+There is going to be an event in my work.
+
+¿Habría algun problema?
+Would there be any problem?
+
+¿Podría haber una tormenta esta noche?
+Could there be a storm tonight?
+
+No debe haber gente fumando aqui
+There mustn't be people smoking here.
